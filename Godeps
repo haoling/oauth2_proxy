@@ -8,7 +8,4 @@ golang.org/x/oauth2                      7fdf09982454086d5570c7db3e11f360194830c
 golang.org/x/net/context                 242b6b35177ec3909636b6cf6a47e8c2c6324b5d
 google.golang.org/api/admin/directory/v1 650535c7d6201e8304c92f38c922a9a3a36c6877
 cloud.google.com/go/compute/metadata     v0.7.0
-github.com/bitly/oauth2_proxy/cookie     v2.2
-github.com/bitly/oauth2_proxy/providers  v2.2
-github.com/bitly/oauth2_proxy/api        v2.2
 github.com/gorilla/websocket             v1.1.0
